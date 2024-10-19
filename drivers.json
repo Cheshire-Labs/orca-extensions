@@ -1,8 +1,15 @@
 {
     "drivers":
-        [{
-        "name": "venus",
-        "description": "Hamilton Venus command line driver",
-        "url": "https://github.com/Cheshire-Labs/venus-driver.git@dev"
-        }]
+        [
+            {
+                "name": "venus",
+                "description": "Hamilton Venus command line driver",
+                "url": "https://github.com/Cheshire-Labs/venus-driver.git@dev"
+            },
+            {
+                "name": "mock-driver",
+                "description": "Mock Driver",
+                "url": "https://github.com/Cheshire-Labs/mock-driver.git"
+            }
+        ]
 }
