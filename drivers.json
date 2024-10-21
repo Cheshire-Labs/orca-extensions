@@ -7,9 +7,9 @@
                 "url": "https://github.com/Cheshire-Labs/venus-driver.git@dev"
             },
             {
-                "name": "mock-driver",
-                "description": "Mock Driver",
-                "url": "https://github.com/Cheshire-Labs/mock-driver.git"
+                "name": "test-driver",
+                "description": "Test Driver",
+                "url": "https://github.com/Cheshire-Labs/simulation-drivers.git"
             }
         ]
 }
